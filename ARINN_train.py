@@ -37,7 +37,7 @@ savepath = '/media/madison/9704680128/ARINN_hd/models' # PASSPORTBLU/'
 # Other:
 val_size = 20 # defines number of images reserved for validation
 epochs_num = 50 # defines epoch size for training
-rev_num = '5' #revision number for ARINN
+rev_num = '6' #revision number for ARINN
 
 # Flags
 save_flag = 1 # 1 to save model, 0 to not save

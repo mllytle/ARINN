@@ -1,5 +1,16 @@
 ARINN Stats
 
+------------------------------------------------------------------------------------
+Round 2 sorted data: 
+82 AR, 119 NO
+
 V5:
 7/7 - 3s - loss: 0.0944 - accuracy: 0.9950 - 3s/epoch - 393ms/step
 6/6 - 3s - loss: 0.1119 - accuracy: 0.9752 - val_loss: 0.9006 - val_accuracy: 0.5750 - 3s/epoch - 488ms/step
+
+V6:
+7/7 - 3s - loss: 0.0860 - accuracy: 0.9950 - 3s/epoch - 382ms/step
+6/6 - 3s - loss: 0.1304 - accuracy: 0.9627 - val_loss: 1.0069 - val_accuracy: 0.5250 - 3s/epoch - 447ms/step
+
+------------------------------------------------------------------------------------
+
