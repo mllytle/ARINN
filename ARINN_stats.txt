@@ -1,0 +1,5 @@
+ARINN Stats
+
+V5:
+7/7 - 3s - loss: 0.0944 - accuracy: 0.9950 - 3s/epoch - 393ms/step
+6/6 - 3s - loss: 0.1119 - accuracy: 0.9752 - val_loss: 0.9006 - val_accuracy: 0.5750 - 3s/epoch - 488ms/step
